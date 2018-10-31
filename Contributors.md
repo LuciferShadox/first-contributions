@@ -55,6 +55,7 @@
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
+- [Rahul Ramakrishnan](https://github.com/LuciferShadox)
 - [Jarett Chaiken-VS](https://github.com/jdchaiken)
 - [Hunter Day](https://github.com/huntmanday)
 - [Ihoey](https://github.com/ihoey)
